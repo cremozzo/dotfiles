@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mathilde2504@icloud.com
+	name = mathilde balp
