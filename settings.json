@@ -75,5 +75,10 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": -2,
+    "epitech-c-cpp-headers.login": " ",
+    "epitech-c-cpp-headers.headerType": "post2017",
+    "epitech-c-cpp-headers.autoGenerateClasses": false
 }
